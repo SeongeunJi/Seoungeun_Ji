@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongeunJi&count_bg=%23D031D4&title_bg=%23E80073&icon=&icon_color=%23C2CCCA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🧑🏻‍💻Algorism
+🧑🏻‍💻Algorithm
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=berkleeboston)
 
